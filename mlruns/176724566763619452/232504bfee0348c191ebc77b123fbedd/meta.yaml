@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/176724566763619452/232504bfee0348c191ebc77b123fbedd/artifacts
+end_time: 1741275191436
+entry_point_name: ''
+experiment_id: '176724566763619452'
+lifecycle_stage: active
+run_id: 232504bfee0348c191ebc77b123fbedd
+run_name: languid-sheep-767
+run_uuid: 232504bfee0348c191ebc77b123fbedd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741275184663
+status: 3
+tags: []
+user_id: nico_

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741275191417
+current_stage: None
+description: ''
+last_updated_timestamp: 1741275191417
+name: reacking-quickstart
+run_id: 232504bfee0348c191ebc77b123fbedd
+run_link: ''
+source: mlflow-artifacts:/176724566763619452/232504bfee0348c191ebc77b123fbedd/artifacts/iris_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/176724566763619452/232504bfee0348c191ebc77b123fbedd/artifacts/iris_model
+user_id: null
+version: 1

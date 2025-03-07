@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/176724566763619452/9cf23559ddb94e90bf742b5d7e00117e/artifacts
+end_time: 1741278595208
+entry_point_name: ''
+experiment_id: '176724566763619452'
+lifecycle_stage: active
+run_id: 9cf23559ddb94e90bf742b5d7e00117e
+run_name: wise-shad-227
+run_uuid: 9cf23559ddb94e90bf742b5d7e00117e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741278590131
+status: 3
+tags: []
+user_id: nico_
